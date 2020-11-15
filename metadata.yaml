@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/landbot-main-library/"
+versions:
+  - sha: 7116cb92b27362f955c0e72578eda3e7394884e9
+    changeNotes: Initial release
